@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Gomes;I'm+20+years+old;I'm+from+Brazil;I'm+Studying+systems+analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Gomes;I'm+21+years+old;I'm+from+Brazil;I'm+Studying+systems+analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme09396&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=ffffff&bg_color=000000" alt="Caroline Barbosa github stats" /> 
